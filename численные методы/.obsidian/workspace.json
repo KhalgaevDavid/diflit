@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e55bf50a4c2e376d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e43e2ca26dd6d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68f1b68cd7937000",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Холст.canvas",
+                "viewState": {
+                  "x": 658.3036787497662,
+                  "y": 1340.9325069206784,
+                  "zoom": -1.0839728096312877
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Холст"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75ec0c54425dd7af",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e2ec22d08fb05dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d7f8c8fedf57391",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bd5da21a4363d780",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "0b848bf016e00f54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fccd8714e3068be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0121248b647d892e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75f027709bd7e4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Терминология численных методов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Терминология численных методов"
+            }
+          },
+          {
+            "id": "2f16f3a069929965",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Терминология численных методов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Терминология численных методов"
+            }
+          },
+          {
+            "id": "2f993ed625c4dbbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1ad605f27e11cb59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "f9ee48713d793819",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Терминология численных методов.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Терминология численных методов"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "68f1b68cd7937000",
+  "lastOpenFiles": [
+    "Холст.canvas",
+    "Методы, основанные на тейлоровском разложении.md",
+    "историческая справка.md",
+    "Задача Коши.md",
+    "Определение Оду.md",
+    "Оду.md",
+    "Условие липшицевости.md",
+    "литература.md",
+    "Терминология численных методов.md",
+    "Обыкновенные.md",
+    "О.md"
+  ]
+}
