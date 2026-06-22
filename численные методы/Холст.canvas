@@ -11,11 +11,13 @@
 		{"id":"7277d4027e5fdb85","type":"file","file":"Геометрическое решение системы ОДУ.md","x":-100,"y":1280,"width":580,"height":500},
 		{"id":"2c5b7cc124e3631a","type":"file","file":"Методы, основанные на тейлоровском разложении.md","x":560,"y":700,"width":420,"height":440},
 		{"id":"97a8c0206d1da1ba","type":"file","file":"Терминология численных методов.md","x":1920,"y":700,"width":480,"height":600},
-		{"id":"44694312b9bc8cdd","type":"file","file":"Сходимость метода.md","x":1120,"y":700,"width":400,"height":200},
-		{"id":"25ad8520f3645a73","type":"file","file":"Явный метод Эйлера.md","x":570,"y":1720,"width":400,"height":160},
-		{"id":"969210f9408178b5","x":1020,"y":1720,"width":400,"height":460,"type":"file","file":"Метод Эйлера с пересчетом.md"},
-		{"id":"ced77f8b1b87675c","type":"text","text":"Теорема 1. Если точное решение - дважды непрерывная дифференцируемая функция, то метод [[Явный метод Эйлера]] сходится с первым порядком\n","x":570,"y":1880,"width":400,"height":136},
-		{"id":"58126197f71ef285","x":1520,"y":1720,"width":400,"height":340,"type":"file","file":"Метод Коши.md"}
+		{"id":"44694312b9bc8cdd","type":"file","file":"Сходимость.md","x":1120,"y":700,"width":400,"height":200},
+		{"id":"29283d922f58558a","type":"file","file":"Невязка.md","x":1120,"y":940,"width":400,"height":280},
+		{"id":"969210f9408178b5","type":"file","file":"Метод Эйлера с пересчетом.md","x":1010,"y":1530,"width":400,"height":460},
+		{"id":"58126197f71ef285","type":"file","file":"Метод Коши.md","x":1510,"y":1530,"width":400,"height":340},
+		{"id":"ced77f8b1b87675c","type":"text","text":"Теорема 1. Если точное решение - дважды непрерывная дифференцируемая функция, то метод [[Явный метод Эйлера]] сходится с первым порядком.\n- [[Сходимость]]\n","x":560,"y":1690,"width":400,"height":180},
+		{"id":"25ad8520f3645a73","type":"file","file":"Явный метод Эйлера.md","x":560,"y":1530,"width":400,"height":160},
+		{"id":"cb5d03c16fde81f2","x":1960,"y":1530,"width":560,"height":590,"type":"file","file":"Семейство явных методов Рунге-Кутты второго порядка.md"}
 	],
 	"edges":[
 		{"id":"88ee303640376993","fromNode":"6bdffadbf1e4603c","fromSide":"bottom","toNode":"b9827d16ef57a693","toSide":"top"},
@@ -31,6 +33,8 @@
 		{"id":"42c94ddb86534b45","fromNode":"2c5b7cc124e3631a","fromSide":"right","toNode":"44694312b9bc8cdd","toSide":"left"},
 		{"id":"9d977ebfdbd787f8","fromNode":"2c5b7cc124e3631a","fromSide":"bottom","toNode":"25ad8520f3645a73","toSide":"top"},
 		{"id":"ee6a4379c6acbea6","fromNode":"2c5b7cc124e3631a","fromSide":"bottom","toNode":"969210f9408178b5","toSide":"top"},
-		{"id":"595b361fe5f1677b","fromNode":"2c5b7cc124e3631a","fromSide":"bottom","toNode":"58126197f71ef285","toSide":"top"}
+		{"id":"595b361fe5f1677b","fromNode":"2c5b7cc124e3631a","fromSide":"bottom","toNode":"58126197f71ef285","toSide":"top"},
+		{"id":"a61e0ae5736812fc","fromNode":"44694312b9bc8cdd","fromSide":"bottom","toNode":"29283d922f58558a","toSide":"top"},
+		{"id":"b3902333e7264388","fromNode":"2c5b7cc124e3631a","fromSide":"bottom","toNode":"cb5d03c16fde81f2","toSide":"top"}
 	]
 }
